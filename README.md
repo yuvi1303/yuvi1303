@@ -1,4 +1,4 @@
-# 💫 Hey :
+# Hey 👋
 🚩 I'm currently working on<br><br>Learning Python, Java & SQL from scratch<br><br>🤝 I'm looking to collaborate on<br><br>Simple intermediate-level projects to practice and improve<br><br>🛡️ I'm looking for help with<br><br>Python and Java — still figuring things out!<br><br>🌱 I'm currently learning<br><br>Python, Java, SQL and improving my C skills for Arduino, Arduino IDE & Micocontroller<br><br>💬 Ask me about<br><br>Arduino, ESP32-CAM — these are the things I've actually worked on<br><br>⚡ Fun fact<br><br>I started with hardware before software — most people do it the other way around!
 
 
